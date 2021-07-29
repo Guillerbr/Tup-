@@ -42,7 +42,7 @@
     "request": "^2.88.2",
     "sequelize": "^6.5.0",
     "speakeasy": "^2.0.0",
-    "twilio": "^3.55.1"
+    "twilio": "^3.66.1"
   },
   "devDependencies": {
     "jest": "^25.1.0",
