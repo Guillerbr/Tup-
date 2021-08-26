@@ -40,7 +40,7 @@
     "qs": "^6.9.6",
     "redis": "^2.8.0",
     "request": "^2.88.2",
-    "sequelize": "^6.5.0",
+    "sequelize": "^6.6.5",
     "speakeasy": "^2.0.0",
     "twilio": "^3.55.1"
   },
